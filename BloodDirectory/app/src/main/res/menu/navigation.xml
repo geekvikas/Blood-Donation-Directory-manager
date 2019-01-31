@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_student"
+        android:icon="@drawable/student"
+        android:title="Student" />
+
+    <item
+        android:id="@+id/navigation_business"
+        android:icon="@drawable/business"
+        android:title="Business" />
+
+    <item
+        android:id="@+id/navigation_other"
+        android:icon="@drawable/other"
+        android:title="Other" />
+
+    <item
+        android:id="@+id/navigation_inspire"
+        android:icon="@drawable/fire"
+        android:title="Inspiration" />
+
+</menu>

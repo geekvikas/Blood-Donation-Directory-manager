@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_accept"
+            android:icon="@drawable/accepted"
+            android:title="Accepted Request" />
+        <item
+            android:id="@+id/nav_raised"
+            android:icon="@drawable/raised"
+            android:title="Raise a request" />
+        <item
+            android:id="@+id/nav_donation"
+            android:icon="@drawable/donation"
+            android:title="My Donation" />
+    </group>
+
+    <item android:title="Utility">
+        <menu>
+            <item
+                android:id="@+id/nav_nearBy"
+                android:icon="@drawable/nearby"
+                android:title="Near By Hospital"/>
+        </menu>
+    </item>
+
+    <item android:title="Join the Cause">
+        <menu>
+            <item
+                android:id="@+id/nav_ambassador"
+                android:icon="@drawable/ambassador"
+                android:title="Become a Ambassador" />
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/settings"
+                android:title="Settings"/>
+            <item
+                android:id="@+id/nav_refer"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Refer a Friend" />
+        </menu>
+    </item>
+
+
+</menu>

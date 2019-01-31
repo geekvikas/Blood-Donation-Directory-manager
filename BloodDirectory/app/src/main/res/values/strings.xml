@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Blood Directory</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Blood Donation</string>
+    <string name="nav_header_subtitle">donation.blood@mail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to the Blood Donation Directory</string>
+    <string name="login">Already Registered User Login here</string>
+    <string name="enterpass">Enter password</string>
+    <string name="username">Enter Username</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="ITDB">[NB: If Donar\'s Last of \nBlood Donation is after\n3 months, select \'Yes\'\notherwise, select \'No\']</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="aboutUs">
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWho We Are\n\n
+        Blood Directory is a FREE blood Donation app
+        available for Android smartphones. Blood Directory
+        searches, notifies and connect thousands of blood
+        donors in three simple steps. Blood Directory donation
+        app ensures hassle free blood donation and privacy
+        of a blood donor. A blood donor can select any specific
+        date and location to donate blood and find a suitable person
+        who needs blood. Connecting blood donors and needy
+        reduces time which increases the possibility of saving
+        lives and also eliminates the shortage of blood.\n\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWhat we do\n\n
+        NO FEES: Blood Directory uses your phone\'s network to let
+        you find and connect people for blood requirements.
+        Blood Directory don\'t charge any fees for its services and
+        you don’t have to pay to any blood donor as well for any
+        blood donation. There is no subscription fees to use Blood Directory.\n\n
+        SEARCH BLOOD DONOR – In most of the apps user get to see
+        hundreds of contact numbers which takes hours to find a suitable
+        blood donor. Calling hundreds of blood donors is not required
+        with SimplyBlood. Just a single search allows you to reach
+        maximum number of blood donors in minimum possible time and
+        that too within just 5 kms from where the blood is required.\n\n
+
+ PRIVACY – Apart from other blood donation apps available Simply
+        Blood don’t show donor’s contact details to public. Only
+        a verified user can see your contact that too to a limited number of contact details.\n\n
+
+ PICK A DATE – Blood donors can make special days like Birthday, Anniversary, Festival, Tribute to someone, Holidays, etc. even more SPECIAL by donating on that day. Blood Directory connects the donor to the needy on that particular day to make it special.\n\n
+
+SIMPLYBLOOD AMBASSADOR PROGRAM (SAP) - Join the SimplyBlood Ambassador Program and encourage others to be a part of it.\n\n
+
+USERNAME - Create username to avoid your number being visible to other member. Saves your blood donation history\n\n
+
+SOCIAL MEDIA INTEGRATION - You may integrate your social media accounts to share the requirements through your social media accounts.\n\n
+
+AND MORE - Saves your blood donation history, can see current blood requirements, Safe Searching, Easy Sign Up and Login\n\n
+
+    </string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_ambassador">AmbassadorActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_near_by_hospital">Map</string>
+
+</resources>
